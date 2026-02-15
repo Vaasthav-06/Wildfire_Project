@@ -2,3 +2,9 @@
 *.xlsx
 *.xls
 *.csv
+# .gitignore content
+__pycache__/
+*.pkl
+*.ipynb_checkpoints/
+catboost_info/
+.venv/
